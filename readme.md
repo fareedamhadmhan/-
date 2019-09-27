@@ -1,5 +1,4 @@
 ## How to install ECG Monitoring System in ICU patients
-============================================
  
 1. Clone this project to your PC
     - open cmd and change dir to you want
