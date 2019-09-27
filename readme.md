@@ -1,4 +1,4 @@
-## How to install Heartbeat monitoring system
+## How to install 
 ============================================
  
 1. Clone this project to your PC
@@ -11,5 +11,3 @@
     - open two cmd
     - run " react-native start "
     - run " react-native run-android "
-
-## !! Good Luck !!
